@@ -55,6 +55,23 @@ Additional scripts and documentation will be added as the repository evolves.
 
 ## Citation
 
-If you use this repository or the associated dataset in your research, please cite the published dataset:
+If you use this repository, the dataset, or the associated methodology in your research, please cite both the published dataset and the related article.
 
-> WFI Time-Series for Mapping Burned Areas in Chapada dos Veadeiros. Science Data Bank. DOI: 10.57760/sciencedb.14040
+### Dataset
+
+> de Oliveira, A. C., & Körting, T. S. (2025). *WFI Time-Series for Mapping Burned Areas in Chapada dos Veadeiros*. Science Data Bank. https://doi.org/10.57760/sciencedb.14040
+
+### Article
+
+```bibtex
+@article{de2025multi,
+  title={A multi-temporal dataset for mapping burned areas in the Brazilian Cerrado using time series of remote sensing imagery},
+  author={de Oliveira, Alisson Cleiton and Sehn K{\"o}rting, Thales},
+  journal={Big Earth Data},
+  volume={9},
+  number={3},
+  pages={473--504},
+  year={2025},
+  publisher={Taylor \& Francis}
+}
+```
