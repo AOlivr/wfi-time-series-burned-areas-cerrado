@@ -1,4 +1,4 @@
-# WFI data for mapping burned areas in the Chapada dos Veadeiros National Park, Brazil
+# Wide-Field Imager (WFI) time-series imagery for mapping burned areas in Chapada dos Veadeiros National Park, Brazil
 
 [![DOI](https://img.shields.io/badge/DOI-10.57760/sciencedb.14040-blue)](https://doi.org/10.57760/sciencedb.14040)
 [![CSTR](https://img.shields.io/badge/CSTR-31253.11.sciencedb.14040-blue)](https://cstr.cn/31253.11.sciencedb.14040)
