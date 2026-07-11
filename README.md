@@ -35,7 +35,7 @@ The published dataset includes:
 
 The dataset can be accessed at:
 
-**Science Data Bank:** https://www.scidb.cn/en/detail?dataSetId=f86ea1da97a5465e96d258830a526963
+**Science Data Bank:** https://doi.org/10.57760/sciencedb.14040
 
 ## Repository
 
