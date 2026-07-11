@@ -24,15 +24,14 @@ The published dataset includes:
 
 | File | Description |
 |------|-------------|
-| `Spatial_grid.shp` | Spatial grid in Shapefile format |
-| `Spatial_grid.gpkg` | Spatial grid in GeoPackage format |
-| `spectral_data.csv` | Spectral dataset |
-| `metadata.readme` | Dataset metadata |
-| `Methodology.pdf` | Methodology documentation |
-| `RF_classification.ipynb` | Random Forest classification example |
-| `radiance_bands.rar` | WFI radiance images |
-| `TOA_reflectance.zip` | Top-of-atmosphere reflectance images |
-| `BOA_reflectance.zip` | Bottom-of-atmosphere reflectance images |
+| `Dataset_WFI.csv` | Time-series dataset containing the extracted spectral information and vegetation indices. |
+| `Metadata_v4.readme.txt` | Dataset metadata and documentation. |
+| `Methodology.pdf` | Detailed description of the data processing workflow and methodology. |
+| `Radiance_v3.rar` | WFI radiance images. |
+| `TOA_reflectance_v4.zip` | Top-of-atmosphere (TOA) reflectance images. |
+| `Script_Random_Forest.ipynb` | Example notebook for burned-area classification using Random Forest. |
+| `Shapefile_spatial_grid.zip` | Spatial grid in ESRI Shapefile format. |
+| `gpk_spatial_grid.gpkg` | Spatial grid in GeoPackage format. |
 
 The dataset can be accessed at:
 
